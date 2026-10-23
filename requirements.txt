@@ -6,4 +6,4 @@ joblib
 streamlit
 matplotlib
 seaborn
-plotly
+matplotlib
